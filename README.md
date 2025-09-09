@@ -1,8 +1,6 @@
 # 👋 Hello, I'm Clément!  
 
 Welcome to my GitHub profile!  
-I'm passionate about **programming, technology and problem solving**.  
-I enjoy learning new tools and building projects that mix creativity and logic.  
 
 ---
 
