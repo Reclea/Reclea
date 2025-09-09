@@ -23,11 +23,12 @@ I enjoy learning new tools and building projects that mix creativity and logic.
 
 ---
 
-## 📊 Visitors Count  
+## 📊 Visitors Count
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/reclea/count.svg" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/TON_PSEUDO&title=Visitors+Count" alt="visitor-count" />
 </p>
+
 
 ---
 
