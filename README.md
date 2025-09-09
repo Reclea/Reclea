@@ -23,16 +23,6 @@ I enjoy learning new tools and building projects that mix creativity and logic.
 
 ---
 
-## 📊 Visitors Count
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Reclea" alt="visitor-badge" />
-</p>
-
-
-
----
-
 <p align="center">
   <i>Last Edited on: 09/09/2025</i>
 </p>
