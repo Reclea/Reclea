@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Clément!  
+# Hello, I'm Clément!  
 
 Welcome to my GitHub profile!  
 
